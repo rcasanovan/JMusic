@@ -6,6 +6,8 @@ I created the library for my projects in the area of Algorithms and Programming 
 
 After years working with the library, I decided to release it as an open source project.
 
+The library is based on JLayer -> http://www.javazoom.net/javalayer/javalayer.html.
+
 The goals of this code are:
 
 * Abstracting mp3 player implementation in Java
