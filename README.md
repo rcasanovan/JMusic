@@ -40,7 +40,7 @@ Use the following methods (at MusicPlayerControl class) in order to control your
 
 ## Internal JMusic mp3 music player
 
-If you want it, you can use the internal JMusic mp3 music player. You just need to following the next steps:
+If you want it, you can use the internal JMusic mp3 music player. You just need to follow the next steps:
 
 * Create a JMusicPlayerList list with the mp3 info for each song
 * Use the JMusicPlayer.main method with mp3 music files path and the JMusicPlayerList list
