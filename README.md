@@ -9,7 +9,7 @@ After years working with the library, I decided to release it as an open source 
 The goals of this code are:
 
 * Abstracting mp3 player implementation in Java
-* Allow people who don't know the implementation of a mp3 player in Java very easily
+* Allow people who don't know the implementation of a mp3 player create one in Java very easily
 * Allow programming teachers create more interesting and complex projects without the need for implementing a mp3 music player
 
 ## Adding JMusic to your project
